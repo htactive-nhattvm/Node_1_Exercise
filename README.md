@@ -8,3 +8,6 @@
 - Tìm hiểu cách sử dụng module fileSystem
 - Cách cài và sử dụng module request hoặc node-fetch từ npm
 - Cách đọc args -> học cách search google :))
+
+# Chú ý:
+- nên commit từng phần và push code để review chéo
