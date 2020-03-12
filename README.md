@@ -10,5 +10,5 @@
 - Cách đọc args -> học cách search google :))
 
 # Chú ý:
-- nên commit từng phần và push code từng phần hơn là làm 1 lần cho xong
+- nên làm, commit và push code từng phần hơn là làm 1 lần cho xong
 - nên refactor lại thành nhiều hàm util rồi tách module ra
