@@ -21,5 +21,8 @@ Linh:
 https://github.com/htactive-bvlinh/nodejs-lab1
 
 Thịnh: 
-https://github.com/htactive-pvpThinh/Nodejs01/tree/branch01
+https://github.com/htactive-pvpThinh/Nodejs01/
+
+Việt:
+https://github.com/HTactive-thViet/getPage/
 
