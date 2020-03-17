@@ -26,3 +26,21 @@ https://github.com/htactive-pvpThinh/Nodejs01/
 Việt:
 https://github.com/HTactive-thViet/getPage/
 
+
+# 
+rootLinks = [...]
+mutation state 
+transform data
+1/ Architect
+process version 1 = links => downloadLink( "https://viblo.asia/newest?page=2 ) => request(downlink): Promise => content =>  Promise => file
+process version 2 = links => downloadLink( "https://viblo.asia/newest?page=2 ) => request(downlink): Promise => content => procees()  => Promise => file
+processWithNodeFetch = 
+solution = pipe 
+2/ Kĩ thuật
+- làm lấy được args -> 
+- làm sao đọc file json
+- làm sao map -> [].map((link) => Rule['link])
+- linkDownLoad -> Promise request -> content -> file
+const Rule = {
+	"https://viblo.asia/: "https://viblo.asia/newest=page"
+}
