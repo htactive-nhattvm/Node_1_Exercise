@@ -27,15 +27,20 @@ Việt:
 https://github.com/HTactive-thViet/getPage/
 
 
-# 
+# 111
+
 rootLinks = [...]
+
 mutation state 
+
 transform data
+
 1/ Architect
 process version 1 = links => downloadLink( "https://viblo.asia/newest?page=2 ) => request(downlink): Promise => content =>  Promise => file
 process version 2 = links => downloadLink( "https://viblo.asia/newest?page=2 ) => request(downlink): Promise => content => procees()  => Promise => file
 processWithNodeFetch = 
 solution = pipe 
+
 2/ Kĩ thuật
 - làm lấy được args -> 
 - làm sao đọc file json
